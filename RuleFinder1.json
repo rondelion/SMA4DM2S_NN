@@ -1,0 +1,14 @@
+{
+  "env": {
+    "name": "M2S_Env2-v0",
+    "attribute_number": 4,
+    "attribute_dim": 2,
+    "sample_period": 2,
+    "response_period": 2,
+    "exhaustive": true
+  },
+  "agent": {
+    "seq_mem_size": 400,
+    "discount": 0.01
+  }
+}
