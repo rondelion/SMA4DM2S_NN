@@ -1,6 +1,8 @@
 # SMA4DM2S_NN
 A Neural Network-based Sequence Memory Agent for a Delayed Match-to-Sample Task
 
+See "[A Neural Model of Rule Discovery with Relatively Short-Term Sequence Memory](https://arxiv.org/abs/2412.06839)" (on arXiv) for detailed explanation.
+
 ## How to Install
 * Clone the repository
 
